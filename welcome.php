@@ -14,4 +14,8 @@ checkAccount("none");
 </head>
 <body>
 This is the welcome page for our project. This is Raj's Copy.
+If you don't have an account, you can create one <a href='createAccount.php'> here </a>. <br/>
+
+Login Form goes here
+
 </body>

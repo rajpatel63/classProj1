@@ -19,3 +19,4 @@ If you don't have an account, you can create one <a href='createAccount.php'> he
 Login Form goes here
 
 </body>
+</html>
